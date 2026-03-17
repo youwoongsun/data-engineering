@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Feature update 1
+Feature update 2
+Feature update 3
+=======
+Base version
+>>>>>>> f82c54b (story.txt add)
